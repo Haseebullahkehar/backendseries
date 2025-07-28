@@ -1,0 +1,19 @@
+{
+  "name": "bckend_series",
+  "version": "1.0.0",
+  "description": "a complete series for backend ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Hassii",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
